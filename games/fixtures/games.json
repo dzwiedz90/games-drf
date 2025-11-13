@@ -1,0 +1,432 @@
+[
+  {
+    "model": "games.Game",
+    "pk": 1,
+    "fields": {
+      "name": "Baldur's Gate II",
+      "year_released": "2000",
+      "genre": "RPG",
+      "studio": "BioWare"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 2,
+    "fields": {
+      "name": "Super Mario Bros",
+      "year_released": "1985",
+      "genre": "platformowa",
+      "studio": "Nintendo"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 3,
+    "fields": {
+      "name": "Gothic",
+      "year_released": "2001",
+      "genre": "RPG",
+      "studio": "Piranha Bytes"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 4,
+    "fields": {
+      "name": "Baldur's Gate",
+      "year_released": "1998",
+      "genre": "RPG",
+      "studio": "BioWare"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 5,
+    "fields": {
+      "name": "Fallout",
+      "year_released": "1997",
+      "genre": "RPG",
+      "studio": "Interplay Productions"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 6,
+    "fields": {
+      "name": "GTA V",
+      "year_released": "2013",
+      "genre": "akcja",
+      "studio": "Rockstar Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 7,
+    "fields": {
+      "name": "Warcraft III",
+      "year_released": "2002",
+      "genre": "RTS",
+      "studio": "Blizzard"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 8,
+    "fields": {
+      "name": "Blood",
+      "year_released": "1997",
+      "genre": "FPS",
+      "studio": "Monolith Productions"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 9,
+    "fields": {
+      "name": "Total War: Shogun 2",
+      "year_released": "2011",
+      "genre": "RTS",
+      "studio": "The Creative Assembly"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 10,
+    "fields": {
+      "name": "Max Payne",
+      "year_released": "2001",
+      "genre": "TPS",
+      "studio": "Remedy"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 11,
+    "fields": {
+      "name": "Max Payne 2",
+      "year_released": "2003",
+      "genre": "TPS",
+      "studio": "Remedy"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 12,
+    "fields": {
+      "name": "Red Dead Redemption 2",
+      "year_released": "2019",
+      "genre": "akcja",
+      "studio": "Rockstar Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 13,
+    "fields": {
+      "name": "Baldur's Gate 3",
+      "year_released": "2023",
+      "genre": "RPG",
+      "studio": "Larian Studios"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 14,
+    "fields": {
+      "name": "The Elder Scrolls V: Skyrim",
+      "year_released": "2011",
+      "genre": "RPG",
+      "studio": "Bethesda"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 15,
+    "fields": {
+      "name": "Mafia 2",
+      "year_released": "2010",
+      "genre": "akcja",
+      "studio": "2K Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 16,
+    "fields": {
+      "name": "Fallout 2",
+      "year_released": "1998",
+      "genre": "RPG",
+      "studio": "Black Isle Studios"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 17,
+    "fields": {
+      "name": "Company of Heroes",
+      "year_released": "2006",
+      "genre": "RTS",
+      "studio": "THQ"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 18,
+    "fields": {
+      "name": "Star Wars: Knights of the Old Republic",
+      "year_released": "2003",
+      "genre": "RPG",
+      "studio": "BioWare"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 19,
+    "fields": {
+      "name": "Agharta: The Hollow Earth",
+      "year_released": "2000",
+      "genre": "przygodowe",
+      "studio": "BioWare"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 20,
+    "fields": {
+      "name": "Escape From Monkey Island",
+      "year_released": "2000",
+      "genre": "przygodowe",
+      "studio": "LucasArts"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 21,
+    "fields": {
+      "name": "Gray Matter",
+      "year_released": "2010",
+      "genre": "przygodowa",
+      "studio": "dtp entertainment"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 22,
+    "fields": {
+      "name": "GTA: Vice City",
+      "year_released": "2002",
+      "genre": "akcja",
+      "studio": "Rockstar Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 23,
+    "fields": {
+      "name": "Silent Hill 2",
+      "year_released": "2001",
+      "genre": "survival horror",
+      "studio": "Konami"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 24,
+    "fields": {
+      "name": "THPS 2",
+      "year_released": "2000",
+      "genre": "sportowa",
+      "studio": "Activision"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 25,
+    "fields": {
+      "name": "Diablo",
+      "year_released": "1996",
+      "genre": "action RPG",
+      "studio": "Blizzard"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 26,
+    "fields": {
+      "name": "Diablo 2",
+      "year_released": "2000",
+      "genre": "action RPG",
+      "studio": "Blizzard"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 27,
+    "fields": {
+      "name": "Silent Hill",
+      "year_released": "1999",
+      "genre": "survival horror",
+      "studio": "Konami"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 28,
+    "fields": {
+      "name": "Pokemon Gold",
+      "year_released": "1999",
+      "genre": "RPG",
+      "studio": "Nintendo"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 29,
+    "fields": {
+      "name": "Resident Evil 2",
+      "year_released": "1998",
+      "genre": "survival horror",
+      "studio": "Capcom"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 30,
+    "fields": {
+      "name": "Crash Bandicoot: Warped",
+      "year_released": "1998",
+      "genre": "platformowa",
+      "studio": "Naughty Dog"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 31,
+    "fields": {
+      "name": "Worms Armageddon",
+      "year_released": "1999",
+      "genre": "TBS",
+      "studio": "Team 17"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 32,
+    "fields": {
+      "name": "Heroes of Might and Magic III",
+      "year_released": "1999",
+      "genre": "TBS",
+      "studio": "The 3DO Company"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 33,
+    "fields": {
+      "name": "Tetris",
+      "year_released": "1985",
+      "genre": "logiczna",
+      "studio": "Elorg"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 34,
+    "fields": {
+      "name": "Planescape Torment",
+      "year_released": "1999",
+      "genre": "RPG",
+      "studio": "Black Isle"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 35,
+    "fields": {
+      "name": "Arcanum: Of Steamwork and Magic Obscura",
+      "year_released": "2001",
+      "genre": "RPG",
+      "studio": "Troika Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 36,
+    "fields": {
+      "name": "Vampire: The Masquerade - Bloodlines",
+      "year_released": "2004",
+      "genre": "RPG",
+      "studio": "Troika Games"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 37,
+    "fields": {
+      "name": "Gothic II",
+      "year_released": "2002",
+      "genre": "RPG",
+      "studio": "Pirnha Bytes"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 38,
+    "fields": {
+      "name": "Kingdom Come: Deliverance",
+      "year_released": "2018",
+      "genre": "RPG",
+      "studio": "Warhorse Studios"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 39,
+    "fields": {
+      "name": "Wizardry 8",
+      "year_released": "2001",
+      "genre": "RPG",
+      "studio": "Sir-Tech"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 40,
+    "fields": {
+      "name": "Icewind Dale",
+      "year_released": "2000",
+      "genre": "RPG",
+      "studio": "Black Isle"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 41,
+    "fields": {
+      "name": "Icewind Dale II",
+      "year_released": "2002",
+      "genre": "RPG",
+      "studio": "Black Isle"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 42,
+    "fields": {
+      "name": "Wiedźmin 3: Dziki Gon",
+      "year_released": "2015",
+      "genre": "RPG",
+      "studio": "CD Projekt Red"
+    }
+  },
+  {
+    "model": "games.Game",
+    "pk": 43,
+    "fields": {
+      "name": "Wiedźmin",
+      "year_released": "2007",
+      "genre": "RPG",
+      "studio": "CD Projekt Red"
+    }
+  }
+]
