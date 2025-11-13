@@ -13,8 +13,7 @@
 - download master from repo
 - configure virtual environment in Python:
 - install modules from requirements.txt
-- save SECRET_KEY:
-- create .env file in root folder where manage.py file is
+- create .env file in root folder where manage.py file is and save SECRET_KEY inside
 - make django migrations:
   - python manage.py makemigrations
   - python manage.py migrate
