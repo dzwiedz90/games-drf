@@ -12,18 +12,16 @@
 ### Configuration before first run:
 - download master from repo
 - configure virtual environment in Python:
-    - virtualenv environment_name
-    - install modules from requirements.txt (pip install -r requirements.txt)
+- install modules from requirements.txt
 - save SECRET_KEY:
-  - create .env file in root folder where manage.py file is
-- django migrations:
-  - python3 manage.py makemigrations images
-  - python3 manage.py migrate
-- django create super user:
-  - python3 manage.py createsuperuser
-- create built in tier instances:
+- create .env file in root folder where manage.py file is
+- make django migrations:
+  - python manage.py makemigrations
+  - python manage.py migrate
+- create super user
+- load fixttures:
   - python3 manage.py loaddata games/fixtures/games.json --app app.Game
-- run django server(python manage.py runserver)
+- run django server
 ---
 ## Authorization
 
