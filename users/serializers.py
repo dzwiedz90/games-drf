@@ -16,7 +16,21 @@ class GetFavoritesSerializer(serializers.ModelSerializer):
         model = Favorites
         fields = ['id', 'game', 'user']
 
-class CreateGameSerializer(serializers.ModelSerializer):
+class CreateFavoriteSerializer(serializers.ModelSerializer):
     class Meta:
         model = Favorites
         fields = ['id', 'game', 'user']
+
+class DummyAuthApiRequestSerializer(serializers.Serializer):
+    username = serializers.CharField(help_text='username')
+    password = serializers.CharField(help_text='password')
+
+class DummyResponseSerializer(serializers.Serializer):
+    message = serializers.CharField(help_text='response message')
+
+class DummyAuthRegisterRequestSerializer(serializers.Serializer):
+    username =  serializers.CharField(help_text='username')
+    password =  serializers.CharField(help_text='password')
+    email =  serializers.CharField(help_text='email')
+    first_name =  serializers.CharField(help_text='first_name')
+    last_name = serializers.CharField(help_text='last_name')
