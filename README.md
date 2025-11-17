@@ -21,13 +21,6 @@
 - load fixttures:
   - python3 manage.py loaddata games/fixtures/games.json --app app.Game
 - run django server
----
-## Authorization
-
-One should set a header 
-### --header 'Authorization: Token token'
-in the request.</br>
-All endpoints require user to authenticate themself.
 
 ---
 ## Endpoints
